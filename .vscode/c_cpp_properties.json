@@ -8,8 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/lehwt/Documents/PlatformIO/Projects/stefndumm/include",
-                "C:/Users/lehwt/Documents/PlatformIO/Projects/stefndumm/src",
+                "C:/Users/lehwt/Downloads/stefndumm/include",
+                "C:/Users/lehwt/Downloads/stefndumm/src",
+                "C:/Users/lehwt/Downloads/stefndumm/.pio/libdeps/uno/Servo/src",
                 "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/variants/standard",
                 "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +23,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/lehwt/Documents/PlatformIO/Projects/stefndumm/include",
-                    "C:/Users/lehwt/Documents/PlatformIO/Projects/stefndumm/src",
+                    "C:/Users/lehwt/Downloads/stefndumm/include",
+                    "C:/Users/lehwt/Downloads/stefndumm/src",
+                    "C:/Users/lehwt/Downloads/stefndumm/.pio/libdeps/uno/Servo/src",
                     "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/variants/standard",
                     "C:/Users/lehwt/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
